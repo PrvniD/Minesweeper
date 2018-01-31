@@ -10,7 +10,11 @@ namespace MojeMáma
     {
         static void Main(string[] args)
         {
+            ///Snad to bude fungovat
+            int cislo = 25;
 
+            Console.WriteLine(cislo + 25);
+            Console.ReadLine();
         }
     }
 }
