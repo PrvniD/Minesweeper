@@ -13,8 +13,8 @@ namespace MojeMáma
             // Kždý správný kod musí začínat timto
             Console.WriteLine("Michael Gomola smrdí a je to buzerant");
             Console.ReadLine();
- 
 
+            //Bude to fungovat takhle?
         }
     }
 }
