@@ -10,11 +10,11 @@ namespace MojeMáma
     {
         static void Main(string[] args)
         {
-            ///Snad to bude fungovat
-            int cislo = 25;
-
-            Console.WriteLine(cislo + 25);
+            // Kždý správný kod musí začínat timto
+            Console.WriteLine("Michael Gomola smrdí a je to buzerant");
             Console.ReadLine();
+ 
+
         }
     }
 }
