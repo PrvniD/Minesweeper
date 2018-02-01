@@ -11,7 +11,7 @@ namespace MojeMáma
         static void Main(string[] args)
         {
             // Kždý správný kod musí začínat timto
-            Console.WriteLine("Michael Gomola smrdí a je to buzerant");
+            Console.WriteLine("Antonín Žédek smrdí a je to buzerant");
             Console.ReadLine();
  
 
